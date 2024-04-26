@@ -1,4 +1,4 @@
-# Pair Programming with LLM (PaLM API)
+# LLMOps
 
 ![cover](./cover.jpg)
 ![components](./components.png)
