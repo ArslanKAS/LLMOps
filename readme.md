@@ -1,4 +1,4 @@
 # LLMOps
 
-![cover](./cover.jpg)
-![components](./components.png)
+![cover](./cover_.jpg)
+![components](./component.png)
